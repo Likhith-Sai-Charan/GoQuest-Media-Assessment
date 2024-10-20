@@ -96,3 +96,5 @@ Contributions to this project are welcome. Please fork the repository and submit
 ## Contact
 
 Likhith Sai Charan Jupudi
+Gmail: jupudilikhithsaicharan@gmail.com
+Mobile: +91 9666954189
